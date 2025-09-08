@@ -1,0 +1,11 @@
+How to run 
+
+1.Navigate to BankSystem which is this folder
+
+2.Go to terminal : Put this 
+
+g++ BankSystem.cpp Bank.cpp -o BankSystem.exe 
+
+3.Then Execute the file : 
+
+.\BankSystem.exe
